@@ -1,6 +1,6 @@
 # AliasMe assisted-review packs
 
-Release assets for the optional **assisted review** add-on of [AliasMe](https://github.com/FLEX-Capital) — a desktop tool
+Release assets for the optional **assisted review** add-on of AliasMe, a desktop tool
 that pseudonymises documents entirely on the local machine.
 
 This repository holds **no source code**. It only hosts the downloadable packs (as GitHub Releases) and this README.
@@ -25,7 +25,7 @@ the values pinned in the app, verifies the model weights, and only then installs
 user or document data.
 
 No internet on the computer? Download the `.aliaspack` for your platform from the
-[Releases](../../releases) page elsewhere, then use **Install from file** in the same settings page, or:
+[Releases](../../releases) page, then use **Install from file** in the same settings page, or:
 
 ```
 aliasme assist install <file>.aliaspack
